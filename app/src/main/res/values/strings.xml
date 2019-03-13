@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DS Go</string>
+    <string name="error_with_dsphoto">DS Photo 未安装</string>
+    <string name="error_with_dsvideo">DS Video 未安装</string>
+</resources>
